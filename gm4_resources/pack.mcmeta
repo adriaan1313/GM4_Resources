@@ -1,10 +1,10 @@
 {
   "pack": {
     "pack_format": 4,
-    "description": "§bOptional Resources for GM4\n§81.14+"
+    "description": "§bOptional Resources for GM4\n§81.14+ with Faithful"
   },
-  "module_name": "Resources",
-  "module_id": "resources",
+  "module_name": "Faithful Resources",
+  "module_id": "resources_faithful",
   "credits": {
     
   }
