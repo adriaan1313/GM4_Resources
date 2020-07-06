@@ -1,7 +1,14 @@
 {
   "pack": {
-    "pack_format": 4,
-    "description": "§bOptional Resources for GM4\n§81.14+ with Faithful"
+    "pack_format": 5,
+    "description": [
+      "Resources for",
+      "\n",
+      {
+        "text": "Gamemode 4 for 1.15+ with Faithful",
+        "color": "aqua"
+      }
+    ]
   },
   "module_name": "Faithful Resources",
   "module_id": "resources_faithful",
