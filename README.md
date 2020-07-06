@@ -8,3 +8,4 @@ Faithful: https://github.com/FaithfulTeam/Faithful
 For more information about Gamemode 4, visit https://www.gm4.co
 
 Faithful's site: https://faithful.team/
+Note: this was made for putting over the standard GM4 Resources
